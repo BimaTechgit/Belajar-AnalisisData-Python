@@ -8,6 +8,13 @@ import numpy as np
 day_df = pd.read_csv("https://raw.githubusercontent.com/BimaTechgit/Belajar-AnalisisData-Python/refs/heads/main/data/day.csv")
 hour_df = pd.read_csv("https://raw.githubusercontent.com/anandashadrina/BikeSharingDataset-Dicoding/refs/heads/main/data/hour.csv")
 
+
+st.markdown("""
+ **Nama     : Bimasakti Faturrahman Soetedjo**  
+ **Email    : riqjuniorbimasakti@gmail.com**
+ **dicoding : BimaTech**  
+""")
+
 # Streamlit title
 st.title("🚴 Dashboard Pertanyaan 1: Analisis Penyewaan Sepeda Berdasarkan Cuaca")
 
