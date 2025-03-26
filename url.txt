@@ -1,0 +1,4 @@
+untuk menjalankan file analisis via streamlit cloud, 
+silahkan copy file url ini untuk melihat:
+
+https://bimasubmissionpy.streamlit.app/
