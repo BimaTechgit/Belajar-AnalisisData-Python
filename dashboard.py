@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load dataset
-day_df = pd.read_csv("d:\day.csv")
-hour_df = pd.read_csv("d:\hour.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/BimaTechgit/Belajar-AnalisisData-Python/refs/heads/main/data/day.csv")
+hour_df = pd.read_csv("https://raw.githubusercontent.com/anandashadrina/BikeSharingDataset-Dicoding/refs/heads/main/data/hour.csv")
 
 # Streamlit title
 st.title("🚴 Dashboard Pertanyaan 1: Analisis Penyewaan Sepeda Berdasarkan Cuaca")
