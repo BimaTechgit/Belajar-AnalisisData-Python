@@ -40,7 +40,7 @@ jika ingin lebih cepat dan tidak ingin install anaconda cukup bukan google colab
 
 jika ingin menjalankan skrip Python langsung di terminal:
 ```sh
-streamlit run bike_sharing_analysis.py
+streamlit run dashboard.py
 ```
 
 ## 📊 Visualisasi Data
